@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Here is your PDFSecure</title>
+</head>
+<body>
+    <h1>PDFSecured File (Is a normal pdf with password)</h1>
+    <p>Here is your password</p>
+    <h2>{{ password }}</h2>
+    <a href="{{ url_for('download_file', filename='protected_pdf.pdf') }}">Download PDF</a>
+</body>
+</html>
