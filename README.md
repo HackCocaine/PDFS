@@ -7,3 +7,10 @@ USAGE (PYTHON3) :
 - python app.py
 - You will see the Web-ui URL in your console
 - Enjoy
+
+FEATURES:
+- OCR Protection
+- Copy-Paste Protection
+- Password generated file
+
+  
