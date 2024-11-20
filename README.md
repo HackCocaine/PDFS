@@ -12,6 +12,7 @@ FEATURES:
 - OCR Protection
 - Copy-Paste Protection
 - Password generated file
+- Password printed on web-ui and console
 
   
 
